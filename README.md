@@ -1,36 +1,37 @@
+<h1 align="center">
+ Lista de compras
+</h1>
 
-![Descricao da sua imagem](https://imgur.com/C8TfWXc.png)
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-# Titulo do projeto
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
 
-Aplicação web de lista de compras para o curso de construção de páginas dinâmicas com JavaScript.
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-## 🔨 Funcionalidades do projeto
+<br>
 
-A aplicação permite inserir itens em uma lista de forma dinâmica, permitindo a exclusão e edição dos mesmos. Os itens terão o nome e também a data e horário que foram criados. Também é possível selecionar um checkbox para informar que o item foi comprado.
+<p align="center">
+  <img alt="Lista de compras" src=".github/listadecompras.png" width="100%">
+</p>
 
-![Inserção no campo de digitação do valor ração de gato, após, é clicado no botão de edição, onde é aberto um popup para digitar o novo do nome item, que foi digitado ração de cachorro. Em seguida, é clicado no botão de exclusão, e o item é excluído.](https://imgur.com/isPj7Xf.gif)
+## 🚀 Tecnologias
 
-## ✔️ Técnicas e tecnologias utilizadas
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-As técnicas e tecnologias utilizadas pra isso são:
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
 
-- `HTML`: criação dos elementos da tela;
-- `CSS`: estilização da aplicação;
-- `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
+## 💻 Projeto
 
-## 📁 Acesso ao projeto
-
-Você pode [acessar o código fonte do projeto inicial](https://github.com/alura-cursos/3801-javascript-para-web/tree/projeto-base) ou [baixá-lo](https://github.com/alura-cursos/3801-javascript-para-web/archive/refs/heads/projeto-base.zip).
-
-## 🛠️ Abrir e rodar o projeto
-
-Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, no menu superior, clique em:
-
-- **File** > **Open Folder** (ou alguma opção similar)
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
-- Por fim clique em OK
-
-Ao finalizar esses passos, você pode executar a aplicação com a extensão Live Server 🏆 
+Projeto para simular uma lista de compras, com funções de adicionar, remover, editar e marcar como comprado na lista.
 
 
+
+Feito com ♥ by Rafael Paiva :wave:
